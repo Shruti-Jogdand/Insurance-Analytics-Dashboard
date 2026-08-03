@@ -125,5 +125,5 @@ This dashboard helps management to:
 
 **Shruti Jogdand**
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: https://www.linkedin.com/in/shruti-jogdand-a6b8b9250
+- GitHub: https://github.com/Shruti-Jogdand
