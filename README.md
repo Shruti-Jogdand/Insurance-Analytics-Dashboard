@@ -102,8 +102,13 @@ This dashboard helps management to:
 
 ## Dashboard Preview
 
+### Dashboard Overview
+![Dashboard Overview](images/Screenshot%20(107).png)
 
-Example:
+### Dashboard Analysis
+![Dashboard Analysis](images/Screenshot%20(97).png)
+
+
 
 
 ## Future Enhancements
